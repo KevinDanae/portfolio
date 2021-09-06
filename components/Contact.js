@@ -18,6 +18,8 @@ export default function Contact() {
               </h1>
               <p className="font-light text-base text-gray-200 mt-2">
                 En cuanto ve tu mensaje, respondere lo mas pronto posible.
+                Actualmente el formulario no funciona...solo se ve bonito jajaja
+                Puedes contactarme directo a mi correo o mandarme un whatsapp o mensaje.
               </p>
             </header>
             <div className="icons-container inline-flex flex-col my-20">
@@ -104,6 +106,7 @@ export default function Contact() {
             <button
               type="submit"
               className="bg-blue-500 rounded-md w-1/2 mx-4 mt-8 py-2 text-gray-50 text-xs font-bold"
+              disabled
             >
               Enviar mensaje
             </button>

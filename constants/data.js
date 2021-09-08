@@ -9,7 +9,7 @@ const userData = {
   projects: [
     {
       title: "Pokedex by Kevin",
-      link: "#",
+      link: "https://eager-saha-63b559.netlify.app/",
       imgUrl: "/pokedex.jpg",
     },
     {

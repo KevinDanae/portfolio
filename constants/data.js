@@ -42,7 +42,7 @@ const userData = {
     }
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1iumR1XFbLWrwBHrc9GpugBL5MwvOojc9/view?usp=sharing",
+    "https://drive.google.com/file/d/1toss0V9-urY4mvwFQ4W3GyTc0mcM53VU/view",
   socialLinks: {
     instagram: "#",
     twitter: "#",
